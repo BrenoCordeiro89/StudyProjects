@@ -19,3 +19,18 @@ Cada projeto listado acima tem sua própria pasta e seu próprio README, com det
 
 Repositório em construção — atualizado conforme avanço nos estudos.
 
+## 🛠️ Tecnologias
+
+- Java
+
+## 🎯 Sobre esta jornada
+
+Estou estudando programação com o objetivo de me tornar um desenvolvedor full stack júnior. Este repositório reúne os exercícios "de treino" — projetos mais sérios e aprofundados ficam em repositórios próprios, separados deste.
+
+## 📌 Como navegar
+
+Cada projeto listado acima tem sua própria pasta e seu próprio README, com detalhes específicos sobre objetivo, funcionalidades e como executar.
+
+---
+
+*Repositório em construção — atualizado conforme avanço nos estudos.*
